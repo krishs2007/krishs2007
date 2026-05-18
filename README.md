@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Krish 👋
 
-<!--
-**krishs2007/krishs2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CSE Student  
+📚 Interested in DSA, Competitive Programming and Open Source  
+🚀 Exploring Web Development  
+🌱 Currently learning and building projects
 
-Here are some ideas to get you started:
+## Tech Stack
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/krish-sonani-738b3a394/) • [GitHub](https://github.com/krishs2007)
