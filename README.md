@@ -1,9 +1,9 @@
 # Hi, I'm Krish 👋
 
 💻 CSE Student  
-📚 Interested in DSA, Competitive Programming and Open Source  
-🚀 Exploring Web Development  
-🌱 Currently learning and building projects
+📚 DSA & Competitive Programming Enthusiast  
+🚀 Exploring Open Source & Web Development  
+🌱 Currently learning and building projects  
 
 ## Tech Stack
 - C++
@@ -12,6 +12,11 @@
 - JavaScript
 - Git & GitHub
 
-## Connect with me
+## Current Focus
+🔹 Competitive Programming  
+🔹 Open Source Contributions  
+🔹 Web Development  
 
-[LinkedIn](https://www.linkedin.com/in/krish-sonani-738b3a394/) • [GitHub](https://github.com/krishs2007)
+## Connect with me
+🔗 LinkedIn: https://www.linkedin.com/in/krish-sonani-738b3a394/  
+🐙 GitHub: https://github.com/krishs2007
