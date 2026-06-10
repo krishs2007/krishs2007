@@ -14,8 +14,8 @@
 
 ## Current Focus
 🔹 Competitive Programming  
-🔹 Open Source Contributions  
-🔹 Web Development  
+🔹 Web Development   
+🔹 Open Source Contributions 
 
 ## Connect with me
 🔗 LinkedIn: https://www.linkedin.com/in/krish-sonani-738b3a394/  
