@@ -18,5 +18,5 @@
 🔹 Open Source Contributions 
 
 ## Connect with me
-🔗 LinkedIn: https://www.linkedin.com/in/krish-sonani-738b3a394/  
 🐙 GitHub: https://github.com/krishs2007
+🔗 LinkedIn: https://www.linkedin.com/in/krish-sonani-738b3a394/  
